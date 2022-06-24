@@ -1,0 +1,1340 @@
+coffee_id,species,variety,processing_method,color,country_of_origin,continent
+1,Arabica,,Washed / Wet,Green,Ethiopia,Africa
+2,Arabica,Other,Washed / Wet,Green,Ethiopia,Africa
+3,Arabica,Bourbon,,,Guatemala,North America
+4,Arabica,,Natural / Dry,Green,Ethiopia,Africa
+5,Arabica,Other,Washed / Wet,Green,Ethiopia,Africa
+6,Arabica,,Natural / Dry,Bluish-Green,Brazil,South America
+7,Arabica,Other,Washed / Wet,Bluish-Green,Peru,South America
+8,Arabica,,,,Ethiopia,Africa
+9,Arabica,,,,Ethiopia,Africa
+10,Arabica,Other,Natural / Dry,Green,Ethiopia,Africa
+11,Arabica,,Natural / Dry,,Ethiopia,Africa
+12,Arabica,Other,Washed / Wet,,United States of America,North America
+13,Arabica,Other,Washed / Wet,,United States of America,North America
+14,Arabica,,,,United States of America,North America
+15,Arabica,,,,Ethiopia,Africa
+16,Arabica,Other,Washed / Wet,,United States of America,North America
+17,Arabica,,,,Indonesia,Asia
+18,Arabica,,,,Ethiopia,Africa
+19,Arabica,Catimor,Washed / Wet,Green,China,Asia
+20,Arabica,Other,Natural / Dry,,Ethiopia,Africa
+21,Arabica,Other,Washed / Wet,None,United States of America,North America
+22,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+23,Arabica,Other,Washed / Wet,Green,Mexico,North America
+24,Arabica,Other,Washed / Wet,,United States of America,North America
+25,Arabica,,Natural / Dry,Bluish-Green,Ethiopia,Africa
+26,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+27,Arabica,,,,Ethiopia,Africa
+28,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+29,Arabica,Caturra,,Green,Honduras,North America
+30,Arabica,Other,Pulped natural / honey,Green,Taiwan,Asia
+31,Arabica,,,,Nicaragua,North America
+32,Arabica,,Natural / Dry,Bluish-Green,Tanzania,Africa
+33,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+34,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+35,Arabica,,Natural / Dry,Green,Ethiopia,Africa
+36,Arabica,Other,Washed / Wet,Blue-Green,Kenya,Africa
+37,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+38,Arabica,,,,United States of America,North America
+39,Arabica,,,,Ethiopia,Africa
+40,Arabica,Other,Washed / Wet,,United States of America,North America
+41,Arabica,Caturra,Washed / Wet,Green,Thailand,Asia
+42,Arabica,Yellow Bourbon,,,Brazil,South America
+43,Arabica,Yellow Bourbon,,,Brazil,South America
+44,Arabica,Bourbon,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+45,Arabica,SL28,Natural / Dry,Bluish-Green,Kenya,Africa
+46,Arabica,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+47,Arabica,,Semi-washed / Semi-pulped,,Uganda,Africa
+48,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+49,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+50,Arabica,Other,Washed / Wet,Blue-Green,Uganda,Africa
+51,Arabica,,,,Ethiopia,Africa
+52,Arabica,,,,United States of America,North America
+53,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+54,Arabica,SL14,Natural / Dry,Green,Uganda,Africa
+55,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+56,Arabica,Gesha,Washed / Wet,Bluish-Green,Panama,North America
+57,Arabica,,Washed / Wet,Green,Ethiopia,Africa
+58,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+59,Arabica,Catuai,Washed / Wet,Bluish-Green,Guatemala,North America
+60,Arabica,Caturra,Natural / Dry,None,Ethiopia,Africa
+61,Arabica,,Washed / Wet,Green,Peru,South America
+62,Arabica,,Washed / Wet,Bluish-Green,Papua New Guinea,Oceania
+63,Arabica,Bourbon,Washed / Wet,Blue-Green,El Salvador,North America
+64,Arabica,Bourbon,Semi-washed / Semi-pulped,None,El Salvador,North America
+65,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+66,Arabica,Caturra,Natural / Dry,,Panama,North America
+67,Arabica,SL28,Natural / Dry,Green,Kenya,Africa
+68,Arabica,Other,Natural / Dry,Green,Ethiopia,Africa
+69,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+70,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+71,Arabica,,Washed / Wet,Green,Ethiopia,Africa
+72,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+73,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+74,Arabica,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+75,Arabica,,,,El Salvador,North America
+76,Arabica,Catimor,Natural / Dry,Green,China,Asia
+77,Arabica,Other,Natural / Dry,Green,Guatemala,North America
+78,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+79,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+80,Arabica,Other,Washed / Wet,Green,Kenya,Africa
+81,Arabica,Other,Washed / Wet,Green,Kenya,Africa
+82,Arabica,,,,Ethiopia,Africa
+83,Arabica,Typica,,,Ethiopia,Africa
+84,Arabica,Bourbon,,Green,Guatemala,North America
+85,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+86,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+87,Arabica,Other,Semi-washed / Semi-pulped,Green,Indonesia,Asia
+88,Arabica,Caturra,Washed / Wet,,Guatemala,North America
+89,Arabica,Other,Natural / Dry,Green,Ethiopia,Africa
+90,Arabica,Caturra,Natural / Dry,,Colombia,South America
+91,Arabica,,Natural / Dry,Green,Ethiopia,Africa
+92,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+93,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+94,Arabica,,,,United States of America,North America
+95,Arabica,,,,Ethiopia,Africa
+96,Arabica,,,,United States of America,North America
+97,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+98,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+99,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+100,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+101,Arabica,,Washed / Wet,Green,Kenya,Africa
+102,Arabica,Other,Washed / Wet,Green,Kenya,Africa
+103,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+104,Arabica,Other,,,Mexico,North America
+105,Arabica,,,,United States of America,North America
+106,Arabica,,,,Guatemala,North America
+107,Arabica,Caturra,Washed / Wet,,Colombia,South America
+108,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+109,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+110,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+111,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+112,Arabica,Typica,Semi-washed / Semi-pulped,,Mexico,North America
+113,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+114,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+115,Arabica,,,,Kenya,Africa
+116,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+117,Arabica,SL14,Natural / Dry,Green,Uganda,Africa
+118,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+119,Arabica,,,,Ethiopia,Africa
+120,Arabica,,,,Ethiopia,Africa
+121,Arabica,Caturra,Pulped natural / honey,Green,Thailand,Asia
+122,Arabica,Other,Washed / Wet,Green,Kenya,Africa
+123,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+124,Arabica,,,,El Salvador,North America
+125,Arabica,,,,Nicaragua,North America
+126,Arabica,Bourbon,Washed / Wet,Blue-Green,El Salvador,North America
+127,Arabica,Other,Washed / Wet,Green,Indonesia,Asia
+128,Arabica,Mundo Novo,Pulped natural / honey,Green,Japan,Asia
+129,Arabica,Catuai,Washed / Wet,Blue-Green,Costa Rica,North America
+130,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+131,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+132,Arabica,Other,Washed / Wet,,Ethiopia,Africa
+133,Arabica,Other,Other,Green,Costa Rica,North America
+134,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+135,Arabica,,Washed / Wet,Green,Costa Rica,North America
+136,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+137,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+138,Arabica,SL28,Washed / Wet,Bluish-Green,Kenya,Africa
+139,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+140,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+141,Arabica,Typica,Washed / Wet,,Mexico,North America
+142,Arabica,Other,Washed / Wet,Blue-Green,Uganda,Africa
+143,Arabica,,,,Peru,South America
+144,Arabica,,,,Ethiopia,Africa
+145,Arabica,Other,Washed / Wet,Blue-Green,Kenya,Africa
+146,Arabica,Other,Washed / Wet,Blue-Green,Colombia,South America
+147,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+148,Arabica,Other,Washed / Wet,Bluish-Green,Kenya,Africa
+149,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+150,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+151,Arabica,Caturra,Washed / Wet,,Colombia,South America
+152,Arabica,Caturra,Washed / Wet,,Colombia,South America
+153,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+154,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+155,Arabica,Bourbon,Semi-washed / Semi-pulped,Bluish-Green,Costa Rica,North America
+156,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+157,Arabica,Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+158,Arabica,Catuai,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+159,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+160,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+161,Arabica,Catimor,Washed / Wet,Green,China,Asia
+162,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+163,Arabica,Other,Washed / Wet,Green,Colombia,South America
+164,Arabica,Other,Washed / Wet,Green,China,Asia
+165,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+166,Arabica,SL28,Washed / Wet,Blue-Green,Kenya,Africa
+167,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+168,Arabica,Typica,Washed / Wet,,Mexico,North America
+169,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+170,Arabica,,,,Brazil,South America
+171,Arabica,,,,Brazil,South America
+172,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+173,Arabica,Other,Other,Blue-Green,Indonesia,Asia
+174,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+175,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+176,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+177,Arabica,Hawaiian Kona,Natural / Dry,Blue-Green,United States of America,North America
+178,Arabica,Other,Washed / Wet,,Mexico,North America
+179,Arabica,,,,Ethiopia,Africa
+180,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+181,Arabica,Caturra,,Green,Honduras,North America
+182,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+183,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+184,Arabica,,,,Colombia,South America
+185,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+186,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+187,Arabica,Typica,Washed / Wet,Blue-Green,Mexico,North America
+188,Arabica,Yellow Bourbon,,,Brazil,South America
+189,Arabica,,,,Brazil,South America
+190,Arabica,,,,Ethiopia,Africa
+191,Arabica,,,,Guatemala,North America
+192,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+193,Arabica,Catimor,Natural / Dry,Green,Thailand,Asia
+194,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+195,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+196,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+197,Arabica,Catimor,Natural / Dry,Green,China,Asia
+198,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+199,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+200,Arabica,Other,Washed / Wet,Green,Colombia,South America
+201,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+202,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+203,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+204,Arabica,Bourbon,Other,Green,Guatemala,North America
+205,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+206,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+207,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+208,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+209,Arabica,Bourbon,Washed / Wet,Bluish-Green,Mexico,North America
+210,Arabica,Other,Natural / Dry,Green,Uganda,Africa
+211,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+212,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+213,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+214,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+215,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+216,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+217,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+218,Arabica,Caturra,Natural / Dry,Bluish-Green,Nicaragua,North America
+219,Arabica,Catuai,Natural / Dry,,Brazil,South America
+220,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+221,Arabica,Gesha,Natural / Dry,Green,Ethiopia,Africa
+222,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+223,Arabica,Other,Washed / Wet,Green,Colombia,South America
+224,Arabica,,Washed / Wet,Bluish-Green,Guatemala,North America
+225,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+226,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+227,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+228,Arabica,Bourbon,Natural / Dry,Bluish-Green,El Salvador,North America
+229,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+230,Arabica,Catuai,Natural / Dry,Bluish-Green,Guatemala,North America
+231,Arabica,Other,Washed / Wet,Green,Uganda,Africa
+232,Arabica,Other,Natural / Dry,Bluish-Green,Indonesia,Asia
+233,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+234,Arabica,Typica,Washed / Wet,Bluish-Green,Taiwan,Asia
+235,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+236,Arabica,Caturra,Washed / Wet,,Colombia,South America
+237,Arabica,Bourbon,Washed / Wet,Bluish-Green,Guatemala,North America
+238,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+239,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+240,Arabica,Other,Natural / Dry,,Ethiopia,Africa
+241,Arabica,,Washed / Wet,None,Costa Rica,North America
+242,Arabica,Gesha,Natural / Dry,Green,Ethiopia,Africa
+243,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+244,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+245,Arabica,Other,Washed / Wet,Green,Colombia,South America
+246,Arabica,Bourbon,Natural / Dry,Green,Guatemala,North America
+247,Arabica,Bourbon,Other,Green,Guatemala,North America
+248,Arabica,,Washed / Wet,Green,Colombia,South America
+249,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+250,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+251,Arabica,Other,Natural / Dry,Green,Ethiopia,Africa
+252,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+253,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+254,Arabica,Other,Washed / Wet,Green,Kenya,Africa
+255,Arabica,Other,Washed / Wet,Green,Thailand,Asia
+256,Arabica,SL28,Washed / Wet,Bluish-Green,Kenya,Africa
+257,Arabica,Other,Washed / Wet,Green,Uganda,Africa
+258,Arabica,,,,Thailand,Asia
+259,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+260,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+261,Arabica,Catimor,Natural / Dry,Bluish-Green,Thailand,Asia
+262,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+263,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+264,Arabica,,,Green,Colombia,South America
+265,Arabica,,,,Colombia,South America
+266,Arabica,,Natural / Dry,Blue-Green,Taiwan,Asia
+267,Arabica,,Washed / Wet,,Colombia,South America
+268,Arabica,,Washed / Wet,None,Colombia,South America
+269,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+270,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+271,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+272,Arabica,Typica,Washed / Wet,Blue-Green,Mexico,North America
+273,Arabica,Typica,Washed / Wet,,Mexico,North America
+274,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+275,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+276,Arabica,Caturra,,Green,Colombia,South America
+277,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+278,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+279,Arabica,,,,Taiwan,Asia
+280,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+281,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+282,Arabica,,Natural / Dry,Green,Ethiopia,Africa
+283,Arabica,Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+284,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+285,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+286,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+287,Arabica,,Natural / Dry,Bluish-Green,Ecuador,South America
+288,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+289,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+290,Arabica,Bourbon,Natural / Dry,Green,Mexico,North America
+291,Arabica,Pacas,Natural / Dry,,Mexico,North America
+292,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+293,Arabica,,,,Thailand,Asia
+294,Arabica,,,,Thailand,Asia
+295,Arabica,,,,Ethiopia,Africa
+296,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+297,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+298,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+299,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+300,Arabica,,Washed / Wet,Green,Colombia,South America
+301,Arabica,Catimor,Washed / Wet,Green,China,Asia
+302,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+303,Arabica,Bourbon,Natural / Dry,Green,Uganda,Africa
+304,Arabica,Other,Washed / Wet,Green,United States of America,North America
+305,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+306,Arabica,Other,Washed / Wet,Green,Colombia,South America
+307,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+308,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+309,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+310,Arabica,Caturra,Natural / Dry,None,Mexico,North America
+311,Arabica,Caturra,Washed / Wet,Bluish-Green,Guatemala,North America
+312,Arabica,,,,Colombia,South America
+313,Arabica,,,,Colombia,South America
+314,Arabica,,,,United States of America,North America
+315,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+316,Arabica,SL28,Washed / Wet,Bluish-Green,Kenya,Africa
+317,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+318,Arabica,Caturra,Washed / Wet,Green,Nicaragua,North America
+319,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+320,Arabica,Caturra,Natural / Dry,Bluish-Green,Taiwan,Asia
+321,Arabica,,,Blue-Green,Costa Rica,North America
+322,Arabica,,Washed / Wet,Bluish-Green,Thailand,Asia
+323,Arabica,Caturra,Washed / Wet,,Colombia,South America
+324,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+325,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+326,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+327,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+328,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+329,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+330,Arabica,Caturra,Natural / Dry,Green,Guatemala,North America
+331,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+332,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+333,Arabica,Typica,Washed / Wet,Green,Indonesia,Asia
+334,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+335,Arabica,,,,United States of America,North America
+336,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+337,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+338,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+339,Arabica,Catimor,Washed / Wet,Green,China,Asia
+340,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+341,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+342,Arabica,Other,Washed / Wet,,Ethiopia,Africa
+343,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+344,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+345,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+346,Arabica,Caturra,Washed / Wet,,Colombia,South America
+347,Arabica,Typica,Other,Green,Taiwan,Asia
+348,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+349,Arabica,Typica,Washed / Wet,,Mexico,North America
+350,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+351,Arabica,Catuai,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+352,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+353,Arabica,,,Blue-Green,Taiwan,Asia
+354,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+355,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+356,Arabica,Bourbon,Washed / Wet,Bluish-Green,Guatemala,North America
+357,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+358,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+359,Arabica,Other,Semi-washed / Semi-pulped,Bluish-Green,Indonesia,Asia
+360,Arabica,,Natural / Dry,,Ethiopia,Africa
+361,Arabica,,Washed / Wet,,Colombia,South America
+362,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+363,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+364,Arabica,Caturra,Washed / Wet,,Colombia,South America
+365,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+366,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+367,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+368,Arabica,Bourbon,Natural / Dry,Green,Mexico,North America
+369,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+370,Arabica,Other,Washed / Wet,Green,Mexico,North America
+371,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+372,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+373,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+374,Arabica,,,,United States of America,North America
+375,Arabica,,,,Indonesia,Asia
+376,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+377,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+378,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+379,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+380,Arabica,,,Blue-Green,Taiwan,Asia
+381,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+382,Arabica,Catimor,Washed / Wet,Bluish-Green,Thailand,Asia
+383,Arabica,Bourbon,Washed / Wet,,El Salvador,North America
+384,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+385,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+386,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+387,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+388,Arabica,Bourbon,Natural / Dry,Green,Guatemala,North America
+389,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+390,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+391,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+392,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+393,Arabica,,,,Colombia,South America
+394,Arabica,,,,United States of America,North America
+395,Arabica,Other,,,Thailand,Asia
+396,Arabica,,,,Mexico,North America
+397,Arabica,Caturra,Washed / Wet,,Colombia,South America
+398,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+399,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+400,Arabica,Catuai,Semi-washed / Semi-pulped,Green,Brazil,South America
+401,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+402,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+403,Arabica,Other,Semi-washed / Semi-pulped,Green,Tanzania,Africa
+404,Arabica,Other,Washed / Wet,Green,Mexico,North America
+405,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+406,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+407,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+408,Arabica,,Washed / Wet,Green,Peru,South America
+409,Arabica,Typica,Washed / Wet,Green,Haiti,North America
+410,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+411,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+412,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+413,Arabica,Bourbon,Washed / Wet,,Burundi,Africa
+414,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+415,Arabica,,,,United States of America,North America
+416,Arabica,,,,United States of America,North America
+417,Arabica,Typica,Washed / Wet,Blue-Green,Mexico,North America
+418,Arabica,Catuai,Pulped natural / honey,Green,Costa Rica,North America
+419,Arabica,,Washed / Wet,,Costa Rica,North America
+420,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+421,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+422,Arabica,,,Green,Brazil,South America
+423,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+424,Arabica,Typica,Natural / Dry,Bluish-Green,Mexico,North America
+425,Arabica,Bourbon,Washed / Wet,Blue-Green,Taiwan,Asia
+426,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+427,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+428,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+429,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+430,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+431,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+432,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+433,Arabica,Caturra,Washed / Wet,Blue-Green,Mexico,North America
+434,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+435,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+436,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+437,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+438,Arabica,,,,Colombia,South America
+439,Arabica,,,,Colombia,South America
+440,Arabica,,,,Colombia,South America
+441,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+442,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+443,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+444,Arabica,,,Green,Peru,South America
+445,Arabica,Catimor,Natural / Dry,None,Vietnam,Asia
+446,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+447,Arabica,Catuai,Washed / Wet,Blue-Green,Honduras,North America
+448,Arabica,Catimor,Washed / Wet,Green,China,Asia
+449,Arabica,Catimor,Washed / Wet,Green,China,Asia
+450,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+451,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+452,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+453,Arabica,SL28,Washed / Wet,Bluish-Green,Kenya,Africa
+454,Arabica,,Washed / Wet,Bluish-Green,Thailand,Asia
+455,Arabica,Other,Washed / Wet,Bluish-Green,Tanzania,Africa
+456,Arabica,Caturra,Washed / Wet,,Colombia,South America
+457,Arabica,SL14,Washed / Wet,Bluish-Green,Uganda,Africa
+458,Arabica,,Washed / Wet,Green,Colombia,South America
+459,Arabica,Catuai,Natural / Dry,Green,Honduras,North America
+460,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+461,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+462,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+463,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+464,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+465,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+466,Arabica,Typica,Washed / Wet,None,Mexico,North America
+467,Arabica,Other,Washed / Wet,None,Mexico,North America
+468,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+469,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+470,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+471,Arabica,Typica,Washed / Wet,,Mexico,North America
+472,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+473,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+474,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+475,Arabica,Mundo Novo,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+476,Arabica,,,,Brazil,South America
+477,Arabica,,,,El Salvador,North America
+478,Arabica,,,,Ethiopia,Africa
+479,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+480,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+481,Arabica,Yellow Bourbon,Pulped natural / honey,Bluish-Green,Brazil,South America
+482,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+483,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+484,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+485,Arabica,Bourbon,Washed / Wet,Green,Brazil,South America
+486,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+487,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+488,Arabica,Typica,Other,,Taiwan,Asia
+489,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+490,Arabica,Other,Washed / Wet,,Mexico,North America
+491,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+492,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+493,Arabica,Caturra,,,Colombia,South America
+494,Arabica,,,,Colombia,South America
+495,Arabica,,,,Indonesia,Asia
+496,Arabica,,,,Guatemala,North America
+497,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+498,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+499,Arabica,Bourbon,Natural / Dry,Bluish-Green,Brazil,South America
+500,Arabica,Bourbon,Washed / Wet,Green,Uganda,Africa
+501,Arabica,Bourbon,Natural / Dry,Green,Uganda,Africa
+502,Arabica,,,Green,Colombia,South America
+503,Arabica,Caturra,Other,Green,Vietnam,Asia
+504,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+505,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+506,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+507,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+508,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+509,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+510,Arabica,Other,Washed / Wet,Bluish-Green,United States of America,North America
+511,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+512,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+513,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Bluish-Green,Brazil,South America
+514,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+515,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+516,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+517,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+518,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+519,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+520,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+521,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+522,Arabica,Other,Natural / Dry,,Colombia,South America
+523,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+524,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+525,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+526,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+527,Arabica,,,,Thailand,Asia
+528,Arabica,,,,Colombia,South America
+529,Arabica,,,,United States of America,North America
+530,Arabica,,,,United States of America,North America
+531,Arabica,,,,Colombia,South America
+532,Arabica,Caturra,,,Nicaragua,North America
+533,Arabica,,,,Thailand,Asia
+534,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+535,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+536,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+537,Arabica,Caturra,Natural / Dry,Green,Taiwan,Asia
+538,Arabica,Other,Washed / Wet,Bluish-Green,Ethiopia,Africa
+539,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+540,Arabica,Other,Washed / Wet,Blue-Green,Philippines,Asia
+541,Arabica,Other,Washed / Wet,Bluish-Green,Philippines,Asia
+542,Arabica,Typica,Natural / Dry,Blue-Green,Mexico,North America
+543,Arabica,Bourbon,Washed / Wet,Bluish-Green,Mexico,North America
+544,Arabica,Other,Semi-washed / Semi-pulped,Green,Brazil,South America
+545,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+546,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+547,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+548,Arabica,Caturra,Natural / Dry,Green,Guatemala,North America
+549,Arabica,,Washed / Wet,Green,Guatemala,North America
+550,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+551,Arabica,Caturra,Natural / Dry,Bluish-Green,Colombia,South America
+552,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+553,Arabica,Other,Washed / Wet,Green,Colombia,South America
+554,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+555,Arabica,Other,Natural / Dry,None,Vietnam,Asia
+556,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+557,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+558,Arabica,,,,Colombia,South America
+559,Arabica,,,,Thailand,Asia
+560,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+561,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+562,Arabica,Yellow Bourbon,Pulped natural / honey,Bluish-Green,Brazil,South America
+563,Arabica,Pacas,Washed / Wet,Green,El Salvador,North America
+564,Arabica,Bourbon,Washed / Wet,Bluish-Green,Rwanda,Africa
+565,Arabica,Other,Other,Green,Vietnam,Asia
+566,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+567,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+568,Arabica,Other,Washed / Wet,,Colombia,South America
+569,Arabica,Other,Other,,United States of America,North America
+570,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+571,Arabica,Typica,Natural / Dry,Green,Colombia,South America
+572,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+573,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+574,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+575,Arabica,Bourbon,Washed / Wet,Blue-Green,Mexico,North America
+576,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+577,Arabica,Typica,Washed / Wet,,Mexico,North America
+578,Arabica,,,,El Salvador,North America
+579,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+580,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+581,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+582,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+583,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+584,Arabica,Other,Other,Blue-Green,Indonesia,Asia
+585,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+586,Arabica,Yellow Bourbon,Natural / Dry,Green,Taiwan,Asia
+587,Arabica,Bourbon,Washed / Wet,,El Salvador,North America
+588,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+589,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+590,Arabica,Yellow Bourbon,Pulped natural / honey,Bluish-Green,Brazil,South America
+591,Arabica,Catimor,Natural / Dry,Green,China,Asia
+592,Arabica,Catimor,Washed / Wet,Green,China,Asia
+593,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+594,Arabica,Gesha,Washed / Wet,Bluish-Green,Malawi,Africa
+595,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+596,Arabica,Typica,Washed / Wet,Green,Colombia,South America
+597,Arabica,Hawaiian Kona,Natural / Dry,Blue-Green,United States of America,North America
+598,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+599,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+600,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+601,Arabica,Typica,Washed / Wet,,Mexico,North America
+602,Arabica,Typica,Natural / Dry,,Mexico,North America
+603,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+604,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+605,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+606,Arabica,Catuai,Washed / Wet,Green,Panama,North America
+607,Arabica,,,,United States of America,North America
+608,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+609,Arabica,Bourbon,Natural / Dry,Bluish-Green,Brazil,South America
+610,Arabica,Catimor,Washed / Wet,Bluish-Green,Laos,Asia
+611,Arabica,Pacas,Washed / Wet,Green,El Salvador,North America
+612,Arabica,,,Green,Mexico,North America
+613,Arabica,,Washed / Wet,Green,Colombia,South America
+614,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+615,Arabica,Catuai,Natural / Dry,,Brazil,South America
+616,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+617,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+618,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+619,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+620,Arabica,SL14,Washed / Wet,Green,Uganda,Africa
+621,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+622,Arabica,Caturra,Washed / Wet,Bluish-Green,Thailand,Asia
+623,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+624,Arabica,Other,Washed / Wet,None,El Salvador,North America
+625,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+626,Arabica,Other,Washed / Wet,Bluish-Green,Thailand,Asia
+627,Arabica,Other,Washed / Wet,,Mexico,North America
+628,Arabica,Typica,Washed / Wet,,Mexico,North America
+629,Arabica,,,Green,Colombia,South America
+630,Arabica,,,,United States of America,North America
+631,Arabica,Other,,,Mexico,North America
+632,Arabica,,,,Colombia,South America
+633,Arabica,,,,Colombia,South America
+634,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+635,Arabica,Typica,Pulped natural / honey,Green,Taiwan,Asia
+636,Arabica,,Pulped natural / honey,Green,Brazil,South America
+637,Arabica,,,Blue-Green,Taiwan,Asia
+638,Arabica,,,Green,Brazil,South America
+639,Arabica,Typica,Semi-washed / Semi-pulped,Blue-Green,Indonesia,Asia
+640,Arabica,,Washed / Wet,Green,Thailand,Asia
+641,Arabica,Caturra,Washed / Wet,Blue-Green,Thailand,Asia
+642,Arabica,Other,Washed / Wet,,Tanzania,Africa
+643,Arabica,SL14,Natural / Dry,Green,Uganda,Africa
+644,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+645,Arabica,,Washed / Wet,Green,Mexico,North America
+646,Arabica,,Natural / Dry,Blue-Green,Guatemala,North America
+647,Arabica,Caturra,Washed / Wet,Blue-Green,Colombia,South America
+648,Arabica,Caturra,Washed / Wet,,Colombia,South America
+649,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+650,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+651,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+652,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+653,Arabica,Mundo Novo,,,Brazil,South America
+654,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+655,Arabica,Other,Washed / Wet,Green,Indonesia,Asia
+656,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+657,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+658,Arabica,,Washed / Wet,Green,Thailand,Asia
+659,Arabica,Caturra,Washed / Wet,,Thailand,Asia
+660,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+661,Arabica,Other,Washed / Wet,Bluish-Green,Tanzania,Africa
+662,Arabica,Other,Washed / Wet,Green,Mexico,North America
+663,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Bluish-Green,Brazil,South America
+664,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+665,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+666,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+667,Arabica,Typica,Washed / Wet,None,Mexico,North America
+668,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+669,Arabica,Typica,Semi-washed / Semi-pulped,,Mexico,North America
+670,Arabica,Caturra,Natural / Dry,Green,Guatemala,North America
+671,Arabica,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+672,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+673,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+674,Arabica,,,,Guatemala,North America
+675,Arabica,Other,Washed / Wet,Green,Honduras,North America
+676,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+677,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+678,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+679,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+680,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+681,Arabica,Catimor,Washed / Wet,Green,China,Asia
+682,Arabica,,,Green,Brazil,South America
+683,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+684,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+685,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+686,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+687,Arabica,Catuai,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+688,Arabica,,Washed / Wet,Green,Peru,South America
+689,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+690,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+691,Arabica,,Washed / Wet,None,Honduras,North America
+692,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+693,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+694,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+695,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+696,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+697,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+698,Arabica,Other,Washed / Wet,Green,Mexico,North America
+699,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+700,Arabica,Bourbon,Washed / Wet,,Mexico,North America
+701,Arabica,Typica,Washed / Wet,Bluish-Green,Mexico,North America
+702,Arabica,Caturra,Natural / Dry,,Colombia,South America
+703,Arabica,Other,Natural / Dry,Blue-Green,Brazil,South America
+704,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+705,Arabica,,,,Colombia,South America
+706,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+707,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+708,Arabica,,Natural / Dry,Green,Brazil,South America
+709,Arabica,Bourbon,Natural / Dry,Bluish-Green,Brazil,South America
+710,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+711,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+712,Arabica,Catimor,Pulped natural / honey,Green,China,Asia
+713,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+714,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+715,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+716,Arabica,Gesha,Washed / Wet,Green,Malawi,Africa
+717,Arabica,Bourbon,Natural / Dry,Blue-Green,Brazil,South America
+718,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+719,Arabica,,Washed / Wet,Green,Mexico,North America
+720,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+721,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+722,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+723,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+724,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+725,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+726,Arabica,,Washed / Wet,Green,Costa Rica,North America
+727,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+728,Arabica,Typica,Natural / Dry,None,Mexico,North America
+729,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+730,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+731,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+732,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+733,Arabica,Mundo Novo,Washed / Wet,Green,Brazil,South America
+734,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+735,Arabica,Catuai,Washed / Wet,Green,Brazil,South America
+736,Arabica,,,Blue-Green,Taiwan,Asia
+737,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+738,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+739,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+740,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+741,Arabica,Gesha,Washed / Wet,Blue-Green,Malawi,Africa
+742,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+743,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+744,Arabica,Mundo Novo,Washed / Wet,Blue-Green,Mexico,North America
+745,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+746,Arabica,Bourbon,Washed / Wet,None,Mexico,North America
+747,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+748,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+749,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+750,Arabica,Other,Washed / Wet,Green,El Salvador,North America
+751,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+752,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+753,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+754,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+755,Arabica,Other,Natural / Dry,Green,Brazil,South America
+756,Arabica,,,,Colombia,South America
+757,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+758,Arabica,Caturra,Washed / Wet,Bluish-Green,Honduras,North America
+759,Arabica,,,Green,Nicaragua,North America
+760,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+761,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+762,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+763,Arabica,,Washed / Wet,Bluish-Green,Thailand,Asia
+764,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+765,Arabica,Bourbon,Washed / Wet,Blue-Green,Guatemala,North America
+766,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+767,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+768,Arabica,Other,Washed / Wet,Green,Mexico,North America
+769,Arabica,Other,Washed / Wet,None,Mexico,North America
+770,Arabica,Typica,Other,Green,Taiwan,Asia
+771,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+772,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+773,Arabica,Typica,Washed / Wet,None,Mexico,North America
+774,Arabica,Caturra,Washed / Wet,None,Guatemala,North America
+775,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+776,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+777,Arabica,,,,Colombia,South America
+778,Arabica,Bourbon,Washed / Wet,,Indonesia,Asia
+779,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+780,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+781,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+782,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+783,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+784,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+785,Arabica,,Washed / Wet,Green,Colombia,South America
+786,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+787,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+788,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+789,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+790,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+791,Arabica,Other,Natural / Dry,Green,Vietnam,Asia
+792,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+793,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+794,Arabica,,,,Colombia,South America
+795,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+796,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+797,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+798,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+799,Arabica,Other,Washed / Wet,Blue-Green,Laos,Asia
+800,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+801,Arabica,Gesha,Washed / Wet,Bluish-Green,Malawi,Africa
+802,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+803,Arabica,,Washed / Wet,Green,Thailand,Asia
+804,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+805,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+806,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+807,Arabica,Typica,Washed / Wet,Bluish-Green,Taiwan,Asia
+808,Arabica,Mundo Novo,Natural / Dry,Blue-Green,Brazil,South America
+809,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+810,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+811,Arabica,Catuai,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+812,Arabica,Bourbon,Natural / Dry,Green,Guatemala,North America
+813,Arabica,Mundo Novo,Semi-washed / Semi-pulped,Green,Brazil,South America
+814,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+815,Arabica,Caturra,,,Colombia,South America
+816,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+817,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+818,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+819,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+820,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+821,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+822,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+823,Arabica,,Washed / Wet,Green,Nicaragua,North America
+824,Arabica,SL28,Washed / Wet,,Zambia,Africa
+825,Arabica,,Washed / Wet,Green,Honduras,North America
+826,Arabica,Typica,Other,Green,Taiwan,Asia
+827,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+828,Arabica,Typica,Semi-washed / Semi-pulped,None,Mexico,North America
+829,Arabica,Mundo Novo,Washed / Wet,None,Mexico,North America
+830,Arabica,Other,Washed / Wet,Green,Mexico,North America
+831,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+832,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+833,Arabica,,,,Colombia,South America
+834,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+835,Arabica,Catuai,Pulped natural / honey,Green,Costa Rica,North America
+836,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+837,Arabica,Other,Other,Green,Indonesia,Asia
+838,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+839,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+840,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+841,Arabica,Catuai,Washed / Wet,Green,Myanmar,Asia
+842,Arabica,Catuai,Washed / Wet,Green,Mexico,North America
+843,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+844,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+845,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+846,Arabica,Typica,Other,None,Indonesia,Asia
+847,Arabica,Gesha,Washed / Wet,Green,Malawi,Africa
+848,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+849,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+850,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+851,Arabica,Caturra,Washed / Wet,Bluish-Green,Colombia,South America
+852,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+853,Arabica,Bourbon,Semi-washed / Semi-pulped,Bluish-Green,Brazil,South America
+854,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+855,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+856,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+857,Arabica,Mundo Novo,,,Brazil,South America
+858,Arabica,,,,Colombia,South America
+859,Arabica,,,,United States of America,North America
+860,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+861,Arabica,Caturra,Washed / Wet,Bluish-Green,Vietnam,Asia
+862,Arabica,Other,Washed / Wet,Bluish-Green,Tanzania,Africa
+863,Arabica,,Natural / Dry,Bluish-Green,Brazil,South America
+864,Arabica,Bourbon,Washed / Wet,None,Mexico,North America
+865,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+866,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+867,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+868,Arabica,Typica,Washed / Wet,,Mexico,North America
+869,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+870,Arabica,,,,Colombia,South America
+871,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+872,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+873,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+874,Arabica,Catuai,Washed / Wet,Blue-Green,Honduras,North America
+875,Arabica,,,Green,Tanzania,Africa
+876,Arabica,,,Green,Nicaragua,North America
+877,Arabica,,,,Colombia,South America
+878,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+879,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+880,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+881,Arabica,Bourbon,Washed / Wet,Green,Brazil,South America
+882,Arabica,Other,Semi-washed / Semi-pulped,Bluish-Green,Indonesia,Asia
+883,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+884,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+885,Arabica,,Washed / Wet,Green,Mexico,North America
+886,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+887,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+888,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+889,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+890,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+891,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+892,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+893,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+894,Arabica,Caturra,Semi-washed / Semi-pulped,Green,Mexico,North America
+895,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+896,Arabica,Catimor,Washed / Wet,Blue-Green,Honduras,North America
+897,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+898,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+899,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+900,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+901,Arabica,Gesha,Washed / Wet,Green,Malawi,Africa
+902,Arabica,Typica,Semi-washed / Semi-pulped,,Taiwan,Asia
+903,Arabica,Yellow Bourbon,Washed / Wet,Blue-Green,Brazil,South America
+904,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+905,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+906,Arabica,Other,Natural / Dry,,Mexico,North America
+907,Arabica,Typica,Natural / Dry,,Mexico,North America
+908,Arabica,,,,Thailand,Asia
+909,Arabica,,,,Thailand,Asia
+910,Arabica,,,,Costa Rica,North America
+911,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+912,Arabica,Caturra,Other,Green,Nicaragua,North America
+913,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+914,Arabica,Bourbon,,Green,Guatemala,North America
+915,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+916,Arabica,Catuai,Washed / Wet,Green,Myanmar,Asia
+917,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+918,Arabica,Gesha,Washed / Wet,Green,Malawi,Africa
+919,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+920,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+921,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+922,Arabica,Other,Washed / Wet,Bluish-Green,Haiti,North America
+923,Arabica,Typica,Other,Green,Taiwan,Asia
+924,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+925,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+926,Arabica,Catuai,Washed / Wet,Green,Mexico,North America
+927,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+928,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+929,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+930,Arabica,Other,Washed / Wet,Green,Indonesia,Asia
+931,Arabica,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Brazil,South America
+932,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+933,Arabica,,,,Colombia,South America
+934,Arabica,,,,United States of America,North America
+935,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+936,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+937,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+938,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+939,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+940,Arabica,Gesha,Washed / Wet,Bluish-Green,Malawi,Africa
+941,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+942,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+943,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+944,Arabica,,Washed / Wet,Bluish-Green,Peru,South America
+945,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+946,Arabica,Caturra,Washed / Wet,None,Mexico,North America
+947,Arabica,Typica,Washed / Wet,,Mexico,North America
+948,Arabica,Caturra,Natural / Dry,Green,Colombia,South America
+949,Arabica,,,,Colombia,South America
+950,Arabica,Other,,,United States of America,North America
+951,Arabica,Caturra,Washed / Wet,,Colombia,South America
+952,Arabica,Caturra,Washed / Wet,Bluish-Green,Honduras,North America
+953,Arabica,,,Green,Mexico,North America
+954,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+955,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+956,Arabica,Yellow Bourbon,Other,Green,Brazil,South America
+957,Arabica,Other,Washed / Wet,Green,Philippines,Asia
+958,Arabica,Gesha,Washed / Wet,Green,Malawi,Africa
+959,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+960,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+961,Arabica,Typica,Washed / Wet,None,Mexico,North America
+962,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+963,Arabica,Typica,Natural / Dry,Green,Taiwan,Asia
+964,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+965,Arabica,Catuai,Washed / Wet,Green,Nicaragua,North America
+966,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+967,Arabica,Other,Washed / Wet,Bluish-Green,Guatemala,North America
+968,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+969,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+970,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+971,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+972,Arabica,,Washed / Wet,Green,Nicaragua,North America
+973,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+974,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+975,Arabica,Caturra,Washed / Wet,Bluish-Green,Costa Rica,North America
+976,Arabica,Catuai,Natural / Dry,Green,Honduras,North America
+977,Arabica,Caturra,Washed / Wet,Blue-Green,Thailand,Asia
+978,Arabica,Typica,Natural / Dry,None,Philippines,Asia
+979,Arabica,Bourbon,Washed / Wet,Bluish-Green,Tanzania,Africa
+980,Arabica,Caturra,Washed / Wet,Green,Malawi,Africa
+981,Arabica,Catuai,Washed / Wet,Green,Costa Rica,North America
+982,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+983,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+984,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+985,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+986,Arabica,,,,United States of America,North America
+987,Arabica,,Natural / Dry,,Ethiopia,Africa
+988,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+989,Arabica,Other,Washed / Wet,,Nicaragua,North America
+990,Arabica,Other,Natural / Dry,,United States of America,North America
+991,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+992,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+993,Arabica,Other,Washed / Wet,Green,United States of America,North America
+994,Arabica,Typica,Washed / Wet,None,Mexico,North America
+995,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+996,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+997,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+998,Arabica,Hawaiian Kona,Washed / Wet,Blue-Green,United States of America,North America
+999,Arabica,Bourbon,Pulped natural / honey,Green,Brazil,South America
+1000,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+1001,Arabica,Yellow Bourbon,Pulped natural / honey,Bluish-Green,Brazil,South America
+1002,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1003,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+1004,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1005,Arabica,Typica,Washed / Wet,Bluish-Green,Taiwan,Asia
+1006,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+1007,Arabica,Mundo Novo,Natural / Dry,Green,Brazil,South America
+1008,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+1009,Arabica,SL14,Natural / Dry,Green,Uganda,Africa
+1010,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+1011,Arabica,,Washed / Wet,Green,Thailand,Asia
+1012,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1013,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1014,Arabica,Other,Washed / Wet,Blue-Green,Taiwan,Asia
+1015,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1016,Arabica,SL28,Washed / Wet,Green,Kenya,Africa
+1017,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1018,Arabica,Other,Other,,Myanmar,Asia
+1019,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+1020,Arabica,Other,Washed / Wet,Green,Tanzania,Africa
+1021,Arabica,Yellow Bourbon,Natural / Dry,Green,Brazil,South America
+1022,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1023,Arabica,Bourbon,Natural / Dry,None,Brazil,South America
+1024,Arabica,Caturra,Washed / Wet,Green,Nicaragua,North America
+1025,Arabica,Pacas,Washed / Wet,Green,Guatemala,North America
+1026,Arabica,Typica,Washed / Wet,,Taiwan,Asia
+1027,Arabica,Typica,Other,Green,Taiwan,Asia
+1028,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1029,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1030,Arabica,Other,,,Thailand,Asia
+1031,Arabica,Catimor,Washed / Wet,Green,Laos,Asia
+1032,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+1033,Arabica,Catuai,Semi-washed / Semi-pulped,Green,Mexico,North America
+1034,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1035,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1036,Arabica,Hawaiian Kona,Washed / Wet,Blue-Green,United States of America,North America
+1037,Arabica,,,,Colombia,South America
+1038,Arabica,,Natural / Dry,Green,Brazil,South America
+1039,Arabica,Catuai,Washed / Wet,Green,Myanmar,Asia
+1040,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+1041,Arabica,Other,Washed / Wet,Green,Nicaragua,North America
+1042,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+1043,Arabica,Caturra,Other,Green,Panama,North America
+1044,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1045,Arabica,Catuai,Natural / Dry,Green,Honduras,North America
+1046,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+1047,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1048,Arabica,Typica,Washed / Wet,Green,Haiti,North America
+1049,Arabica,Other,Natural / Dry,Bluish-Green,United States of America,North America
+1050,Arabica,Typica,Other,Green,Taiwan,Asia
+1051,Arabica,Other,Semi-washed / Semi-pulped,Blue-Green,Indonesia,Asia
+1052,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1053,Arabica,Caturra,Washed / Wet,Blue-Green,Costa Rica,North America
+1054,Arabica,Caturra,Washed / Wet,Bluish-Green,Malawi,Africa
+1055,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1056,Arabica,Caturra,Natural / Dry,,Colombia,South America
+1057,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1058,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1059,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1060,Arabica,,,,Colombia,South America
+1061,Arabica,,,Green,Brazil,South America
+1062,Arabica,,,Green,Nicaragua,North America
+1063,Arabica,Other,Washed / Wet,Bluish-Green,Tanzania,Africa
+1064,Arabica,Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+1065,Arabica,Caturra,Washed / Wet,Green,Honduras,North America
+1066,Arabica,Bourbon,Natural / Dry,Green,Guatemala,North America
+1067,Arabica,,,,United States of America,North America
+1068,Arabica,,,,Colombia,South America
+1069,Arabica,Other,Natural / Dry,Blue-Green,Taiwan,Asia
+1070,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+1071,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1072,Arabica,,,Green,Mauritius,
+1073,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Brazil,South America
+1074,Arabica,Other,Washed / Wet,Green,Myanmar,Asia
+1075,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1076,Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,None,Brazil,South America
+1077,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1078,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1079,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1080,Arabica,,,Green,Honduras,North America
+1081,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1082,Arabica,Bourbon,Washed / Wet,Green,El Salvador,North America
+1083,Arabica,Other,Washed / Wet,Green,China,Asia
+1084,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1085,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1086,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+1087,Arabica,,,Green,Burundi,Africa
+1088,Arabica,Bourbon,Washed / Wet,Green,Tanzania,Africa
+1089,Arabica,Other,Washed / Wet,Bluish-Green,Tanzania,Africa
+1090,Arabica,Yellow Bourbon,Other,Green,Taiwan,Asia
+1091,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1092,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+1093,Arabica,Hawaiian Kona,Washed / Wet,Green,United States of America,North America
+1094,Arabica,,,,Ethiopia,Africa
+1095,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+1096,Arabica,Caturra,Natural / Dry,Green,Honduras,North America
+1097,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+1098,Arabica,Other,Natural / Dry,Green,Myanmar,Asia
+1099,Arabica,Catuai,Natural / Dry,Green,Myanmar,Asia
+1100,Arabica,Caturra,Washed / Wet,Green,Nicaragua,North America
+1101,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1102,Arabica,Typica,Washed / Wet,Green,Colombia,South America
+1103,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+1104,Arabica,Caturra,Washed / Wet,Green,Guatemala,North America
+1105,Arabica,Caturra,Washed / Wet,None,Mexico,North America
+1106,Arabica,Catimor,Other,,Vietnam,Asia
+1107,Arabica,Caturra,Washed / Wet,,Nicaragua,North America
+1108,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1109,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1110,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1111,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1112,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1113,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1114,Arabica,,,,United States of America,North America
+1115,Arabica,Bourbon,Pulped natural / honey,Green,Brazil,South America
+1116,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1117,Arabica,,Natural / Dry,Green,Nicaragua,North America
+1118,Arabica,Typica,Other,Green,Taiwan,Asia
+1119,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1120,Arabica,Typica,Semi-washed / Semi-pulped,Green,Taiwan,Asia
+1121,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1122,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1123,Arabica,Caturra,Washed / Wet,Green,Nicaragua,North America
+1124,Arabica,Other,Washed / Wet,Green,Myanmar,Asia
+1125,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1126,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1127,Arabica,,Washed / Wet,Green,Thailand,Asia
+1128,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1129,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1130,Arabica,,,,Ethiopia,Africa
+1131,Arabica,,Washed / Wet,Green,Colombia,South America
+1132,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1133,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1134,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1135,Arabica,Bourbon,Washed / Wet,,Mexico,North America
+1136,Arabica,Catuai,Washed / Wet,Green,Mexico,North America
+1137,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+1138,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+1139,Arabica,,,,United States of America,North America
+1140,Arabica,Other,Washed / Wet,,Kenya,Africa
+1141,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1142,Arabica,Caturra,Washed / Wet,Green,Nicaragua,North America
+1143,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1144,Arabica,Hawaiian Kona,Natural / Dry,Blue-Green,United States of America,North America
+1145,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1146,Arabica,Typica,Natural / Dry,,Taiwan,Asia
+1147,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+1148,Arabica,,Washed / Wet,Green,Thailand,Asia
+1149,Arabica,,Washed / Wet,Green,Peru,South America
+1150,Arabica,Catuai,Washed / Wet,Bluish-Green,Costa Rica,North America
+1151,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1152,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1153,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1154,Arabica,Bourbon,Washed / Wet,None,Mexico,North America
+1155,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1156,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1157,Arabica,Typica,Washed / Wet,,Mexico,North America
+1158,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1159,Arabica,Bourbon,Washed / Wet,Bluish-Green,El Salvador,North America
+1160,Arabica,,Washed / Wet,Blue-Green,Thailand,Asia
+1161,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1162,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1163,Arabica,Caturra,Washed / Wet,None,Mexico,North America
+1164,Arabica,Mundo Novo,Washed / Wet,,Mexico,North America
+1165,Arabica,Other,,,Thailand,Asia
+1166,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1167,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+1168,Arabica,,,,Colombia,South America
+1169,Arabica,,,,Guatemala,North America
+1170,Arabica,Caturra,Natural / Dry,Green,Nicaragua,North America
+1171,Arabica,Typica,Natural / Dry,,Taiwan,Asia
+1172,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+1173,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+1174,Arabica,Typica,Washed / Wet,Bluish-Green,Mexico,North America
+1175,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1176,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1177,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1178,Arabica,,Washed / Wet,Bluish-Green,Cote d?Ivoire,
+1179,Arabica,Caturra,Washed / Wet,Green,Colombia,South America
+1180,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1181,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1182,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1183,Arabica,Typica,Washed / Wet,Blue-Green,Taiwan,Asia
+1184,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1185,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1186,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1187,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1188,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+1189,Arabica,Catuai,Washed / Wet,None,Costa Rica,North America
+1190,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1191,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1192,Arabica,Typica,,,Mexico,North America
+1193,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1194,Arabica,Other,Washed / Wet,Green,United States of America,North America
+1195,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1196,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+1197,Arabica,Typica,Washed / Wet,Bluish-Green,Mexico,North America
+1198,Arabica,,,,,
+1199,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1200,Arabica,Pacas,Washed / Wet,Green,Honduras,North America
+1201,Arabica,Typica,Washed / Wet,,Peru,South America
+1202,Arabica,Mundo Novo,Natural / Dry,None,Mexico,North America
+1203,Arabica,Typica,Semi-washed / Semi-pulped,Green,Mexico,North America
+1204,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1205,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1206,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1207,Arabica,Caturra,Other,Green,Nicaragua,North America
+1208,Arabica,,Natural / Dry,Green,United States of America,North America
+1209,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1210,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1211,Arabica,Typica,Semi-washed / Semi-pulped,None,Mexico,North America
+1212,Arabica,Bourbon,Washed / Wet,,Mexico,North America
+1213,Arabica,Typica,Washed / Wet,Green,China,Asia
+1214,Arabica,Caturra,Washed / Wet,None,Mexico,North America
+1215,Arabica,,,Green,Nicaragua,North America
+1216,Arabica,,Natural / Dry,Green,Nicaragua,North America
+1217,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1218,Arabica,Typica,Washed / Wet,Green,Taiwan,Asia
+1219,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1220,Arabica,Typica,Washed / Wet,,Mexico,North America
+1221,Arabica,,,,United States of America,North America
+1222,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1223,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1224,Arabica,Caturra,Washed / Wet,Green,Mexico,North America
+1225,Arabica,Catuai,Natural / Dry,Green,Brazil,South America
+1226,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1227,Arabica,Hawaiian Kona,Natural / Dry,Bluish-Green,United States of America,North America
+1228,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1229,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1230,Arabica,Typica,Natural / Dry,Green,Mexico,North America
+1231,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1232,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1233,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1234,Arabica,Other,Washed / Wet,,Indonesia,Asia
+1235,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1236,Arabica,Yellow Bourbon,Washed / Wet,Green,Taiwan,Asia
+1237,Arabica,Pacas,Natural / Dry,Green,Honduras,North America
+1238,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1239,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1240,Arabica,Typica,Washed / Wet,Green,China,Asia
+1241,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1242,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1243,Arabica,,,Green,Colombia,South America
+1244,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+1245,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1246,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1247,Arabica,,,Bluish-Green,Nicaragua,North America
+1248,Arabica,,Washed / Wet,,Brazil,South America
+1249,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1250,Arabica,Typica,Washed / Wet,Bluish-Green,Taiwan,Asia
+1251,Arabica,,Natural / Dry,Green,United States of America,North America
+1252,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1253,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1254,Arabica,Bourbon,Natural / Dry,Green,Brazil,South America
+1255,Arabica,Other,Washed / Wet,Green,Guatemala,North America
+1256,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1257,Arabica,Typica,Washed / Wet,,Haiti,North America
+1258,Arabica,,Natural / Dry,Green,United States of America,North America
+1259,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1260,Arabica,Caturra,Washed / Wet,Green,Peru,South America
+1261,Arabica,,Natural / Dry,Green,India,Asia
+1262,Arabica,Typica,,,Mexico,North America
+1263,Arabica,Bourbon,Washed / Wet,None,Guatemala,North America
+1264,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1265,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1266,Arabica,Bourbon,Washed / Wet,,Guatemala,North America
+1267,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1268,Arabica,,Natural / Dry,Bluish-Green,United States of America,North America
+1269,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1270,Arabica,Other,Natural / Dry,None,Indonesia,Asia
+1271,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1272,Arabica,Pacas,Natural / Dry,Green,Honduras,North America
+1273,Arabica,,Washed / Wet,Green,Philippines,Asia
+1274,Arabica,,Natural / Dry,Green,Brazil,South America
+1275,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1276,Arabica,Bourbon,Washed / Wet,,Guatemala,North America
+1277,Arabica,Other,Washed / Wet,Green,Mexico,North America
+1278,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+1279,Arabica,Other,Washed / Wet,,Mexico,North America
+1280,Arabica,Typica,Washed / Wet,Bluish-Green,Mexico,North America
+1281,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1282,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1283,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1284,Arabica,Bourbon,Washed / Wet,,Guatemala,North America
+1285,Arabica,Bourbon,Washed / Wet,,Guatemala,North America
+1286,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1287,Arabica,Hawaiian Kona,Natural / Dry,Blue-Green,United States of America,North America
+1288,Arabica,Bourbon,Washed / Wet,Green,Guatemala,North America
+1289,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1290,Arabica,Typica,Washed / Wet,None,Mexico,North America
+1291,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1292,Arabica,Hawaiian Kona,Natural / Dry,,United States of America,North America
+1293,Arabica,,,Green,Brazil,South America
+1294,Arabica,Pacas,Washed / Wet,Green,Honduras,North America
+1295,Arabica,Typica,Washed / Wet,,Mexico,North America
+1296,Arabica,,Natural / Dry,Bluish-Green,Colombia,South America
+1297,Arabica,Hawaiian Kona,Natural / Dry,Green,United States of America,North America
+1298,Arabica,,,,Haiti,North America
+1299,Arabica,Caturra,Washed / Wet,Green,Costa Rica,North America
+1300,Arabica,Mundo Novo,Washed / Wet,Green,Mexico,North America
+1301,Arabica,Bourbon,Washed / Wet,Green,Mexico,North America
+1302,Arabica,Typica,Washed / Wet,Green,Mexico,North America
+1303,Arabica,,Natural / Dry,Green,Brazil,South America
+1304,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1305,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1306,Arabica,Catuai,Washed / Wet,Green,Honduras,North America
+1307,Arabica,Bourbon,Washed / Wet,None,Mexico,North America
+1308,Arabica,Typica,Natural / Dry,Blue-Green,Haiti,North America
+1309,Arabica,Caturra,Other,Green,Nicaragua,North America
+1310,Arabica,Catuai,Washed / Wet,Green,Guatemala,North America
+1311,Arabica,Caturra,,Green,Honduras,North America
+1312,Robusta,,,Green,Uganda,Africa
+1313,Robusta,,Washed / Wet,,India,Asia
+1314,Robusta,,,Green,India,Asia
+1315,Robusta,,,Green,Uganda,Africa
+1316,Robusta,,,Green,Uganda,Africa
+1317,Robusta,,,Green,India,Asia
+1318,Robusta,,,Green,India,Asia
+1319,Robusta,,Washed / Wet,Bluish-Green,India,Asia
+1320,Robusta,Other,Washed / Wet,Green,India,Asia
+1321,Robusta,,,Green,Uganda,Africa
+1322,Robusta,,,Green,Uganda,Africa
+1323,Robusta,Other,Natural / Dry,Green,India,Asia
+1324,Robusta,,,Green,India,Asia
+1325,Robusta,,,Green,Uganda,Africa
+1326,Robusta,,,Green,Uganda,Africa
+1327,Robusta,,,Green,India,Asia
+1328,Robusta,,Natural / Dry,Blue-Green,India,Asia
+1329,Robusta,,,Green,Uganda,Africa
+1330,Robusta,,,Green,Uganda,Africa
+1331,Robusta,,,Green,Uganda,Africa
+1332,Robusta,,,Bluish-Green,India,Asia
+1333,Robusta,,Natural / Dry,Green,India,Asia
+1334,Robusta,Other,Natural / Dry,Green,United States of America,North America
+1335,Robusta,,,Blue-Green,Ecuador,South America
+1336,Robusta,,,Blue-Green,Ecuador,South America
+1337,Robusta,,Natural / Dry,,United States of America,North America
+1338,Robusta,,Natural / Dry,Green,India,Asia
+1339,Robusta,,Natural / Dry,None,Vietnam,Asia
